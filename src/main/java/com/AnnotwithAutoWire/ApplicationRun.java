@@ -6,7 +6,10 @@ import javax.annotation.Resource;
 
 /**
  * Created by Ashutosh on 7/20/2016.
+<<<<<<< HEAD
  * Please contact mishra.techie@gmail.com with your queries
+=======
+>>>>>>> origin/master
  */
 
 /*
