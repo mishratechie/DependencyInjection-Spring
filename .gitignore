@@ -1,16 +1,15 @@
-<<<<<<< HEAD
+
 <<<<<<< 4a24a4ef44c1d69e68b0e80b382f19cd2ff23e41
 /target/
 =======
-=======
->>>>>>> origin/master
+
 /bin/
 /.settings/*
 .classpath
 .project
 /target/*
 /.idea/*
-<<<<<<< HEAD
+
 *.iml
 >>>>>>> Initial commit
 =======
